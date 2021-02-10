@@ -68,8 +68,6 @@ From the graph it is clear that the price has varied mainly by three segments. H
  As the engine sixe increases the price increases
  The mileage decreases price increases
  The horse power and price are directly co-related
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture2.png)
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture3.png)
  ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture4.png)
  
  The boxplot of price and the drive distribution reveals that 4-wheel-drive vehicle are costliest followed by front-wheel drive and then rear wheel drive
