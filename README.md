@@ -51,7 +51,6 @@ Attribute Information:
 26. price: continuous from 5118 to 45400.
 
 The variables have been segregated as below.
-
 ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture19.png)
             
 ### Price Analysis
