@@ -50,12 +50,9 @@ Attribute Information:
 25. highway-mpg: continuous from 16 to 54.
 26. price: continuous from 5118 to 45400.
 
-
 The variables have been segregated as below.
 
 ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture19.png)
-            
-            
             
 ### Price Analysis
 From the graph it is clear that the price has varied mainly by three segments. Hence three categories are created 
