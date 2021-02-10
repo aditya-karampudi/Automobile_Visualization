@@ -1,4 +1,5 @@
-Introduction
+### Introduction
+
 With out-burst of Automobile production, many firms have released multiple variations of four-wheeler vehicles. This git is a Python based EDA project carried out of an Automobile Dataset, The attributes of interest are:	
 
 •	Price
@@ -9,7 +10,8 @@ With out-burst of Automobile production, many firms have released multiple varia
 
 Also, I have worked on finding the Best Car in Budget car category.
 
-Dataset Description
+### Dataset Description
+
 The Automobile Dataset consists of various information relating to the built, engine power, make, mileage and body attributes of a car. The data types include integers, floating points, and strings.
 This data set consists of three types of entities:
 
@@ -85,7 +87,7 @@ From the graph it is clear that the price has varied mainly by three segments. H
  ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture6.png)
  
  
- ## Perfoemance Analysis
+ ## Performance Analysis
  
  Classification of Cars Based on Engine Power
  
