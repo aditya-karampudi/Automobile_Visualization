@@ -66,8 +66,6 @@ From the graph it is clear that the price has varied mainly by three segments. H
 
 •	Premium cars
 
-From the graph it is clear that the price has varied mainly by three segments. Hence I have classified as low price segment, medium price segment and premium cars.
- 
  ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture20.png)
  
  Going in-depth we can find that the relation between the price and other attributes.
