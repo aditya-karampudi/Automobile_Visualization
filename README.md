@@ -2,7 +2,9 @@ Introduction
 With out-burst of Automobile production, many firms have released multiple variations of four-wheeler vehicles. This git is a Python based EDA project carried out of an Automobile Dataset, The attributes of interest are:	
 
 •	Price
+
 •	Mileage 
+
 •	Performance 
 
 Also, I have worked on finding the Best Car in Budget car category.
@@ -12,7 +14,9 @@ The Automobile Dataset consists of various information relating to the built, en
 This data set consists of three types of entities:
 
 •	The specification of an auto in terms of various characteristics
+
 •	Its assigned insurance risk rating
+
 •	Its normalized losses in use as compared to other cars. 
 
 Attribute Information:
@@ -55,7 +59,9 @@ The variables have been segregated as below.
 From the graph it is clear that the price has varied mainly by three segments. Hence three categories are created 
 
 •	Low price segment
+
 •	Medium price segment
+
 •	Premium cars
 
 From the graph it is clear that the price has varied mainly by three segments. Hence I have classified as low price segment, medium price segment and premium cars.
