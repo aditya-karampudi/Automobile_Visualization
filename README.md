@@ -1,4 +1,4 @@
-### Introduction
+﻿### Introduction
 
 With out-burst of Automobile production, many firms have released multiple variations of four-wheeler vehicles. This git is a Python based EDA project carried out of an Automobile Dataset, The attributes of interest are:	
 
@@ -51,7 +51,7 @@ Attribute Information:
 26. price: continuous from 5118 to 45400.
 
 The variables have been segregated as below.
-![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture19.png)
+![alt text](images/Picture19.png)
             
 ### Price Analysis
 From the graph it is clear that the price has varied mainly by three segments. Hence three categories are created 
@@ -62,64 +62,64 @@ From the graph it is clear that the price has varied mainly by three segments. H
 
 •	Premium cars
 
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture20.png)
+ ![alt text](images/Picture20.png)
  
  Going in-depth we can find that the relation between the price and other attributes.
  As the engine sixe increases the price increases
  The mileage decreases price increases
  The horse power and price are directly co-related
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture4.png)
+ ![alt text](images/Picture4.png)
  
  The boxplot of price and the drive distribution reveals that 4-wheel-drive vehicle are costliest followed by front-wheel drive and then rear wheel drive
  
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture5.png)
+ ![alt text](images/Picture5.png)
  
  The price range based on body style shows that the hard-top and convertible are priceiest and are in same price range. Where as hatchback are cheapest of all
  
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture6.png)
+ ![alt text](images/Picture6.png)
  
  
  ## Performance Analysis
  
  Classification of Cars Based on Engine Power
  
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture21.png)
+ ![alt text](images/Picture21.png)
  
  
  Average Peak RPM Comparison on Wheel Drive
  
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture8.png)
+ ![alt text](images/Picture8.png)
  
  Factors Influencing & Influenced by the Engine Power
  
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture9.png)
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture10.png)
+ ![alt text](images/Picture9.png)
+ ![alt text](images/Picture10.png)
  
  
  ## Mileage Analysis
  Mileage Comparison of Cars
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture11.png)
+ ![alt text](images/Picture11.png)
  
  Mileage Comparison With Different Fuel Systems
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture12.png)
+ ![alt text](images/Picture12.png)
  
  Mileage Comparison With Other Attributes
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture13.png)
+ ![alt text](images/Picture13.png)
  
  ## Best Budget Car  Analysis
  
  Cars Qualifying for The ‘Budget Car’ Category
  
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture18.png)
+ ![alt text](images/Picture18.png)
  
  Feature Analysis of The Qualified Cars
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture15.png)
+ ![alt text](images/Picture15.png)
  
  Feature Analysis of The Qualified Cars
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture16.png)
+ ![alt text](images/Picture16.png)
  
  Final qualifiers
- ![alt text](https://github.com/aditya-karampudi/eda_car_dataset/blob/master/images/Picture17.png)
+ ![alt text](images/Picture17.png)
             
 Please refer the notebook to have look on all the analysis.
 
